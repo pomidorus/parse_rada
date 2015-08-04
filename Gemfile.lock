@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.10)
+    htmlentities (4.3.4)
+    scrapi (2.0.0)
+      tidy_ffi (>= 0.1.2)
+    tidy_ffi (0.1.6)
+      ffi (~> 1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  htmlentities
+  scrapi
+
+BUNDLED WITH
+   1.10.5
